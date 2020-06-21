@@ -8,3 +8,5 @@ For Advanced users: Type `pip install pyinstaller` in your Command Prompt and ru
 This is my first every project in Python and I'll introduce it's more versions too!
 
 Happy Raiding!
+
+Youtube Channel for .exe file:https://www.youtube.com/channel/UCqdK83lbIf4RDJp-04Qm2Gw?view_as=subscriber
