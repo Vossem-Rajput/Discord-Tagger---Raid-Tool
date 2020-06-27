@@ -3,7 +3,7 @@ This is my Discord Tagger it helps people to Raid Discord Servers and spam Disco
 
 How to use?
 For Normal Users: Run the .exe file in the folder.
-For Advanced users: Type `pip install pyinstaller` in your Command Prompt and run the .py file!
+For Advanced users: Type `pip install pyinstaller` and `pip install pyautogui` in your Command Prompt and run the .py file!
 
 This is my first every project in Python and I'll introduce it's more versions too!
 
